@@ -111,3 +111,9 @@ iOSInjectionProject/
 # End of https://www.toptal.com/developers/gitignore/api/swift,cocoapods,xcode
 
 project.pbxproj
+
+
+echo "OJT2025061HomeWork/client_desktop.json" >> .gitignore
+git add .gitignore
+git commit -m "chore: ignore client_desktop.json"
+git push
